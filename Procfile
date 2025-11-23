@@ -1,0 +1,1 @@
+web: streamlit run herb_recognition.py --server.port $PORT
