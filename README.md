@@ -35,11 +35,15 @@
 
 
 ### 方式 2：本地运行（需 Python 环境）
-克隆本仓库（复制以下命令到终端 / 命令行执行）：
-git clone https://github.com/lzq-prag/herb-recognition-system.git
-cd herb-recognition-system
-安装项目依赖：
+1. 克隆本仓库（复制以下命令到终端/命令行执行）：
+   ```bash
+   git clone https://github.com/lzq-prag/herb-recognition-system.git
+   cd herb-recognition-system
+2. 安装项目依赖：
+  ```bash
 pip install -r requirements.txt
-启动本地应用：
+
+3. 启动本地应用:
+  ```bash
 streamlit run herb_recognition.py
-启动成功后，浏览器会自动弹出应用界面，上传中草药图片即可完成识别。
+
