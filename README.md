@@ -44,6 +44,6 @@
 pip install -r requirements.txt
 
 3. 启动本地应用：
-  ```bash
-streamlit run herb_recognition.py
+   ```bash
+   streamlit run herb_recognition.py
 
