@@ -40,10 +40,7 @@
    git clone https://github.com/lzq-prag/herb-recognition-system.git
    cd herb-recognition-system
 2. 安装项目依赖：
-  ```bash
 pip install -r requirements.txt
-
 3. 启动本地应用：
-   ```bash
    streamlit run herb_recognition.py
 
