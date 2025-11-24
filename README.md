@@ -36,7 +36,6 @@
 
 ### 方式 2：本地运行（需 Python 环境）
 1. 克隆本仓库（复制以下命令到终端/命令行执行）：
-   ```bash
    git clone https://github.com/lzq-prag/herb-recognition-system.git
    cd herb-recognition-system
 2. 安装项目依赖：
